@@ -38,4 +38,4 @@ streamlit.dataframe(my_data_rows)
 
 add_my_fruit = streamlit.text_input('what fruit wound you like to add?', 'jackfruit')
 streamlit.write('the user entered',add_my_fruit)
-streamlit.txt("Thanks for adding Jackfruit")
+streamlit.txt('Thanks for adding Jackfruit')
